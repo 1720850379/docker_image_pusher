@@ -1,2 +1,2 @@
---platform=linux/arm/v8 mysql
---platform=linux/arm/v8 nginx
+--platform=linux/arm64/v8 mysql
+--platform=linux/arm64/v8 nginx
