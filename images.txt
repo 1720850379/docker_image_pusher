@@ -1,2 +1,2 @@
-arm64v8/mysql
-arm64v8/nginx
+arm64v8_mysql
+arm64v8_nginx
