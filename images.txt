@@ -1,2 +1,2 @@
-arm64v8_mysql
-arm64v8_nginx
+--platform=linux/arm/v8 mysql
+--platform=linux/arm/v8 nginx
