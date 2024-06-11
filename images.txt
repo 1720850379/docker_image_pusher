@@ -1,3 +1,2 @@
---platform=linux/arm64/v8 mysql
---platform=linux/arm64/v8 nginx
-mysql
+--platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
+
